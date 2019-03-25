@@ -19,8 +19,11 @@ The webite is simple and repetitive but responsive. I wanted desktop users to be
 <img src="screenshots/footer screen shot.PNG">
 <br>
 ### Target Audience 
-Firstly the teachers marking the assignment and secondly prospective employers or collaborators. I was very weary of finding the balance between personality and professionalism. 
+
+Firstly the teachers marking the assignment and secondly prospective employers or collaborators. I was very weary of finding the balance between personality and professionalism.
+<br> 
 ### Tech Stack 
+
 HTML<br>
 CSS - mostly flexbox <br>
 Tiny wee bit of Jscript from a tutorial I did<br>
