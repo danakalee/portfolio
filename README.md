@@ -40,7 +40,7 @@ In my original design inspired by <mattfarley.ca> I had planned to ue only Panto
 <img src="wireframes/projects-tech-wireframe.PNG">
 
 ### Usability 
-
+All images and links have the correct alt tags 
 ## Project Management
 ### Project Plan and Timeline
 ### Trello
