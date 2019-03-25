@@ -1,6 +1,6 @@
 # School Term 1 Portfolio
-Link to Portfolio:
-Link to repo:
+Link to Portfolio: https://danakalee.github.io/portfolio/ <br>
+Link to repo:https://github.com/danakalee/portfolio <br>
 ### Purpose
 To showcase my understandng of HTML CSS And design theory.<br>
 The portfolio should also express my personaility and professionalism to prospective employers. <br>
@@ -33,7 +33,9 @@ Currently my contact section doesn't work but I plan to look in to PHP in order 
 ## Design Documentation
 
 ### Process 
-Initially I had a very simple website planned but reading the criteria revealed that this would not meet many of the requirements for the assignment. I decided early on to use Judit Just's weaving to create interest through texture. I knew that making my own original content would be too time consuming and I didnt want to spend too much time trolling through placeholdere content for things that were relfective of my personalaity and appropriate for a portfolio. 
+Initially I had a very simple website planned but reading the criteria revealed that this would not meet many of the requirements for the assignment. I decided early on to use Judit Just's weaving to create interest through texture. I knew that making my own original content would be too time consuming and I didnt want to spend too much time trolling through placeholder content for things that were relfective of my personalaity and appropriate for a portfolio. 
+I found working with Judit's content very joyful and I hope to make a better portfolio of her work as a project on my website. 
+In my original design inspired by <mattfarley.ca> I had planned to ue only Pantone's 'Living Coral' colour of the year for 2019. 
 ### Wireframes
 <img src="wireframes/projects-tech-wireframe.PNG">
 
