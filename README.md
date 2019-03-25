@@ -55,4 +55,12 @@ I tried to keep the content on the website as minimal as possible so screen read
 
 ### 1980
 ### Fundamentals
+ DNS is a protocol within the set of standards for how computers exchange data on the internet known as the TCP/IP protocol suite. 
+When you connect to your internet service provider (ISP) the modem that assigns your computer's network address also sends some information to your computer. That configuration includes one or more DNS servers that the device should use when translating DNS names to IP address.<br>
+
+The browser acts as a client to contact the web server and request information. First it performs a Domain Name System (DNS) look to find the IP address. Afterwards it sends a Hypertext Transfer Protocol (HTTP) request to the web server. <br>
+
+When the request reaches the correct web server (hardware), the HTTP server (software) accepts request, finds the requested document (if it doesn't then a 404 response is returned), and sends it back to the browser, also through HTTP.<br>
+ 
+
 ### One tech dev.
