@@ -8,8 +8,10 @@ The portfolio should also express my personaility and professionalism to prospec
 ### Features
 The webite is simple and repetitive but responsive. I wanted desktop users to be able to navigate away from the home page to see the images better. 
 ### Sitemap
-<img src="site map.png">
+
+<img src="sitemap.png">
 ### Screen Shots
+
 <img src="screenshots/Screen Shot 2019-03-25 at 10.46.55 am.png">
 <img src="screenshots/screen shot of aboutme portfolio.PNG">
 <img src="screenshots/projects screen shot.PNG">
