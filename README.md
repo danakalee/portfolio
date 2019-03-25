@@ -11,6 +11,7 @@ The webite is simple and repetitive but responsive. I wanted desktop users to be
 
 <img src="sitemap.png">
 <br>
+
 ### Screen Shots
 
 <img src="screenshots/Screen Shot 2019-03-25 at 10.46.55 am.png">
@@ -18,6 +19,7 @@ The webite is simple and repetitive but responsive. I wanted desktop users to be
 <img src="screenshots/projects screen shot.PNG">
 <img src="screenshots/footer screen shot.PNG">
 <br>
+
 ### Target Audience 
 
 Firstly the teachers marking the assignment and secondly prospective employers or collaborators. I was very weary of finding the balance between personality and professionalism.
