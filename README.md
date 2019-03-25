@@ -64,3 +64,6 @@ When the request reaches the correct web server (hardware), the HTTP server (sof
  
 
 ### One tech dev.
+
+By the early to mid-1970s,  ARPA found itself running three separate ‘experimental’ networks – ARPANET, PRNET, and SATNET – all of which used packet switching technology, but in different ways. 
+Once again a sophisticated technology was in need of a way to communicate more effectively. In the end, the second option was adopted, and a suite of interlocking protocols centred on two new ones – TCP and IP – evolved. In this way TCP/IP became the cornerstone of the new ‘network of networks’. The great advantage of this approach was that implicit in it was the possibility of organic growth: as long as a given network ‘spoke’ TCP/IP (as it were) it was free to join the Internet. And because the system was not owned or controlled by anybody (unlike the ARPANET), there were no gatekeepers to control admission to it. In March 1981, the Pentagon announced that all ARPANET hosts would be required to adopt TCP/IP and in one move squashed any debate and the beginning of the free web was born.
